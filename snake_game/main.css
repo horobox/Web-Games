@@ -1,0 +1,25 @@
+*{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+@font-face{
+    src: url(fonts/GoblinAppears.otf);
+    font-family: goblin;
+}
+
+.container{
+    text-align: center;
+}
+
+#canvas1{
+    box-shadow: 0 0 10px #000;
+}
+h1{
+    font-family: goblin;
+    color: #ff05e6;
+}
+#score{
+    font-family: goblin;
+}
